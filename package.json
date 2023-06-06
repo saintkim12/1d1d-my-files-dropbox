@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "dropbox": "^10.34.0"
+  },
+  "name": "1d1d-my-files-dropbox",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/saintkim12/1d1d-my-files-dropbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saintkim12/1d1d-my-files-dropbox/issues"
+  },
+  "homepage": "https://github.com/saintkim12/1d1d-my-files-dropbox#readme",
+  "description": ""
+}
